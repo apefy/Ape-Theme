@@ -1,4 +1,4 @@
-ape v1.0
+ape
 
 based off "Github Dark" by https://github.com/moistp1ckle
 
