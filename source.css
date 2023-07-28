@@ -78,10 +78,10 @@ src: url("https://github.com/apefy/Ape-Theme/blob/main/fonts/gg%20sans%20Medium.
 }
 
 /* message font */
-.messageContent-2t3eCI{ font-family: segoe ui !important; }
+.messageContent-2t3eCI{ font-family: gg sans !important; }
 
 /* date of message font */
-.timestamp-p1Df1m, .timestampInline-_lS3aK{ font-family: segoe ui !important;}
+.timestamp-p1Df1m, .timestampInline-_lS3aK{ font-family: gg sans !important;}
 
 
 .theme-light {
@@ -121,7 +121,7 @@ src: url("https://github.com/apefy/Ape-Theme/blob/main/fonts/gg%20sans%20Medium.
   --control-brand-foreground-new: hsl(235, calc(var(--saturation-factor, 1)*86.1%), 77.5%);
   --background-mentioned: rgba(82, 68, 31, 0.466);
   --background-mentioned-hover: rgba(82, 68, 31, 0.281);
-  --background-message-hover: rgba(25, 36, 43, 0.459);
+  --background-message-hover: rgba(0, 0, 0, 0.137);
   --activity-card-background: #202225;
   --textbox-markdown-syntax: rgb(82, 89, 95);
   --transitionspeed: 0.25s;
