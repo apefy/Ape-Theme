@@ -1,3 +1,3 @@
-ape v1.2 changed font and maybe something else idk
+ape v1.3
 
 based off "Github Dark" by https://github.com/moistp1ckle
