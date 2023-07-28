@@ -1,3 +1,19 @@
+/***
+Ape Discord theme based off of "Github Dark" by "https://github.com/moistp1ckle"
+if you are using this theme for vencord either copy the raw github link:
+"https://raw.githubusercontent.com/apefy/Ape-Theme/main/source.css" or copy this code and paste it into "QuickCSS Editor"
+
+                                ┏━━━┓╋╋╋╋╋╋┏━┓
+                                ┃┏━┓┃╋╋╋╋╋╋┃┏┛
+                                ┃┃╋┃┣━━┳━━┳┛┗┳┓╋┏┓
+                                ┃┗━┛┃┏┓┃┃━╋┓┏┫┃╋┃┃
+                                ┃┏━┓┃┗┛┃┃━┫┃┃┃┗━┛┃
+                                ┗┛╋┗┫┏━┻━━┛┗┛┗━┓┏┛
+                                ╋╋╋╋┃┃╋╋╋╋╋╋╋┏━┛┃
+                                ╋╋╋╋┗┛╋╋╋╋╋╋╋┗━━┛
+                                
+***/
+
 :root {
   /* --------- BASE THEME --------- */
   --blurple-replace: #7289DA;
@@ -52,13 +68,18 @@
 }
 
 @font-face {
-font-family: 'Segoe UI'; 
-src: local(Segoe UI);
+font-family: 'segoe ui'; 
+src: url("https://raw.githubusercontent.com/apefy/Ape-Theme/main/fonts/Segoe%20UI.ttf");
 }
 
-.messageContent-2t3eCI{ font-family: Segoe UI !important; }
+@font-face {
+font-family: 'gg sans'; 
+src: url("https://github.com/apefy/Ape-Theme/blob/main/fonts/gg%20sans%20Medium.ttf");
+}
 
+.messageContent-2t3eCI{ font-family: segoe ui !important; }
 
+.timestamp-p1Df1m, .timestampInline-_lS3aK{ font-family: segoe ui !important;}
 
 
 .theme-light {
@@ -101,6 +122,26 @@ src: local(Segoe UI);
   --background-message-hover: rgba(13, 16, 20, 0.459);
   --activity-card-background: #202225;
   --textbox-markdown-syntax: rgb(82, 89, 95);
+}
+
+.scroller-18M1mG.thin-RnSY0a.scrollerBase-1Pkza4 {
+  background: rgb(31, 37, 46);
+}
+
+.base-2v-uc0 {
+  background: rgb(31, 37, 46);
+}
+
+.autocompleteRow-14iwvH {
+  background: rgb(31, 37, 46);
+}
+
+.autocompleteRowVertical-EA9dCg {
+  background: rgb(31, 37, 46);
+}
+
+.clickable-2V8YKY {
+  background: rgb(31, 37, 46);
 }
 
 .userProfileInnerThemedNonPremium-2AJg-H {
