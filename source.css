@@ -127,6 +127,22 @@ src: url("https://github.com/apefy/Ape-Theme/blob/main/fonts/gg%20sans%20Medium.
   --transitionspeed: 0.25s;
 }
 
+.newMessagesBar-1hF-9G.barBase-3xxDXu {
+  background: rgb(15, 20, 27);
+}
+
+.barButtonAlt-TQoCdZ.barButtonBase-Sk2mdB {
+  background: rgb(15, 20, 27);
+}
+
+
+
+
+
+.replyBar-1oi75v {
+  background: rgb(31, 37, 46);
+}
+
 .container-YkUktl {
   background: rgb(15, 20, 27);
 }
@@ -252,7 +268,7 @@ src: url("https://github.com/apefy/Ape-Theme/blob/main/fonts/gg%20sans%20Medium.
 
 .barButtonMain-2GIx4o.barButtonBase-Sk2mdB {
   color: rgb(140, 150, 160);
-  background: rgb(31, 37, 46);
+  background: rgb(15, 20, 27);
 }
 
 .lookBlank-3eh9lL {
