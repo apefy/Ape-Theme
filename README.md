@@ -1,3 +1,3 @@
-jondog v1.5
+jondog v1.5.2
 
 based off "Github Dark" by https://github.com/moistp1ckle
